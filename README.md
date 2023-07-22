@@ -3,7 +3,7 @@ Aimbot tackling a Minecraft server's target practice challenge
 ## End result:
 The gameplay in the demo vid is half the speed of the actual thing because OBS lags my laptop.
 
-https://user-images.githubusercontent.com/58980435/233982708-787c339a-5764-4203-951f-0c0216be5474.mp4
+![](resources/final.mp4)
 
 ## Context:
 Multiple target bottle(s) will pop up with each wave and the player has to only shoot down all target bottles without missing within a short amount of time
